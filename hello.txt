@@ -14,3 +14,4 @@ Hello Git!!!
 Hello Git!!! master test!
 Hello Git!!! hot-fix test~
 测试远程代码拉取！！
+测试ssh能否远程拉取代码
